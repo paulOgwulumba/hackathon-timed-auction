@@ -1,0 +1,9 @@
+Pages needed:
+
+1. Choose role: creator or bidder
+2. Creator: 
+    1. Form for setting Minimum bid and timeout. NFT would be created automatically.
+    2. Page to keep track of addresses that have made bids and to see address of person that won bid.
+3. Bidder:
+    1. Form for setting and submitting bid.
+    2. Page to know if bid was won or not.
